@@ -1,16 +1,23 @@
 ## Hi there 👋
+<h2 align="center">Anohba Jhd</h2>
+<p align="center"><i>The First Thinker</i> 🕯</p>
 
-<!--
-**AnohbaJhd/AnohbaJhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+ “I don’t speak much. My work does.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🧠  
+Student of silence. Builder of systems.
+
+🛠️  
+Crafted in code, wrapped in calm.
+
+🌱  
+Still evolving.
+
+🎲  
+Fun fact: I talk to machines more than I talk to people.
+
+---

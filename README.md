@@ -9,9 +9,9 @@
 ---
 
   
-Student of silence. Builder of systems.
-Crafted in code, wrapped in calm.
-Still evolving.
+- Student of silence. Builder of systems.
+- Crafted in code, wrapped in calm.
+- Still evolving.
 
 <blockquote>
   Fun fact: I talk to machines more than I talk to people.

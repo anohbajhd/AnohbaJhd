@@ -9,8 +9,8 @@
 ---
 
   
-- Student of silence. Builder of systems.
-- Crafted in code, wrapped in calm.
+- I write code and sometimes it works.
+- Systems are built slow — and that’s okay.
 - Still evolving.
 
 <blockquote>

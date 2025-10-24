@@ -10,7 +10,7 @@
 
   
 - I write code and sometimes it works.
-- Systems are built slow — and that’s okay.
+- Systems are built slow - and that’s okay.
 - Still evolving.
 
 <blockquote>
